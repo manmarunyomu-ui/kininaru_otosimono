@@ -1,0 +1,5 @@
+[preload  storage="./data/bgimage/room.jpg"  ]
+[preload  storage="./data/fgimage/chara/1/陸上部2.png"  ]
+[preload  storage="./data/fgimage/chara/1/陸上部1.png"  ]
+[preload  storage="./data/bgimage/学校の廊下（夕方）.jpg"  ]
+[return]

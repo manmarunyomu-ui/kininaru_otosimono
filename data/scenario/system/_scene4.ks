@@ -1,0 +1,5 @@
+[preload  storage="./data/bgimage/学校の音楽室（夕方）.jpg"  ]
+[preload  storage="./data/fgimage/chara/2/吹奏楽部1.png"  ]
+[preload  storage="./data/fgimage/chara/2/吹奏楽部2.png"  ]
+[preload  storage="./data/bgimage/学校の廊下（夕方）.jpg"  ]
+[return]
